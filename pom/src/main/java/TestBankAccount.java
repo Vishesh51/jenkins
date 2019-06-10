@@ -3,7 +3,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 
-public class TestBankAccount  {
+public class TestBankAccount  extends BankAccount{
   
   @Test
   public void testDebitWithSufficientFunds(){
