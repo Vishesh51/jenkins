@@ -24,7 +24,7 @@ public class BankAccount {
 
 }
 
-public class TestBankAccount{
+private class TestBankAccount{
   
   @Test
   public void testDebitWithSufficientFunds(){
