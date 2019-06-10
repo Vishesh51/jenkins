@@ -3,7 +3,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 
-private class TestBankAccount{
+public class TestBankAccount{
   
   public class BankAccount {
 
