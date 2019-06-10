@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class TestBankAccount{
   
-  public class BankAccount {
+  public static class BankAccount {
 
   public double balance;
 
