@@ -1,6 +1,7 @@
 import junit.framework.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import src.main.java.Bank.BankAccount;
 
 public class TestBankAccount {
   
