@@ -2,7 +2,10 @@ import junit.framework.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public class BankAccount {
+
+private class TestBankAccount{
+  
+  public class BankAccount {
 
   public double balance;
 
@@ -20,8 +23,6 @@ public class BankAccount {
   }
 
 }
-
-private class TestBankAccount{
   
   @Test
   public static void main(String[] args){
